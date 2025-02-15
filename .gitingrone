@@ -1,0 +1,35 @@
+# 開發環境
+.DS_Store
+node_modules
+/dist
+
+# 本地環境檔案
+.env.local
+.env.*.local
+
+# 日誌檔案
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# 編輯器目錄和檔案
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# 快取
+.npm
+.eslintcache
+
+# 打包檔案
+dist/
+dist-ssr/
+coverage/
+
+# 本地憑證
+*.local
