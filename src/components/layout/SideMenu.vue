@@ -61,7 +61,7 @@
     </el-menu>
 
     <div class="copyright" v-if="!isCollapse">
-      ©2022 Copyright S3 YIP; all rights reserved.
+      ©2020 Copyright S3 YIP; all rights reserved.
     </div>
   </div>
 </template>
